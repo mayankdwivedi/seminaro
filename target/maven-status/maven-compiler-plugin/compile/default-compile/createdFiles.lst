@@ -1,0 +1,12 @@
+com\seminaro\model\Seminar.class
+com\seminaro\controller\HomeController.class
+com\seminaro\controller\LoginController.class
+com\seminaro\utility\JedisFactory.class
+com\seminaro\enumerations\Sex.class
+com\seminaro\enumerations\VegNonVeg.class
+com\seminaro\model\User.class
+com\seminaro\interceptor\UserAuthenticationInterceptor.class
+com\seminaro\enumerations\Religion.class
+com\seminaro\enumerations\Relationship.class
+com\seminaro\controller\Test.class
+com\seminaro\utility\Mail.class
