@@ -8,7 +8,7 @@
 	<name>Seminaro Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>3.2.0.RELEASE</spring.version>
+		<spring.version>3.2.5.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<jdk.version>1.6</jdk.version>
 		<org.slf4j.version>1.5.10</org.slf4j.version>
